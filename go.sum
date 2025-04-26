@@ -1,8 +1,4 @@
-github.com/adityatelange/hugo-PaperMod v0.0.0-20230826144857-efe4cb45161b h1:eLMvFFfTaW5oGnamkeSsbxxgVF74vDaZfGdXMmkkAPA=
-github.com/adityatelange/hugo-PaperMod v0.0.0-20230826144857-efe4cb45161b/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
-github.com/adityatelange/hugo-PaperMod v0.0.0-20250420061623-7cf752f8644f h1:s6+Tuz5MfExpI7A7tELrc92d0nk0578HNXq/fgq7gbY=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20250420061623-7cf752f8644f/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
-github.com/naturalcrit/homebrewery v3.9.1+incompatible h1:K7vrCDMIRCq/sL0T/3iHbaSsavCsGHGz2BvhB05LWS4=
-github.com/naturalcrit/homebrewery v3.9.1+incompatible/go.mod h1:/i4yqADFUW7e+mLkyZATW3gBsSOdxcNmOrTA1lI1/IQ=
-github.com/tnarik/hugo-homebrewery-theme_props v0.0.0-20230928142044-ac663b7d451a h1:rizM/xtNimOFo1BrtSuITsADGD9Z911Vk9S8xSqpK40=
-github.com/tnarik/hugo-homebrewery-theme_props v0.0.0-20230928142044-ac663b7d451a/go.mod h1:gYTaLq5ZvcaaDC9zVTSKqp65EJ0dueWBpO2lMykQnhA=
+github.com/naturalcrit/homebrewery v3.16.0+incompatible/go.mod h1:/i4yqADFUW7e+mLkyZATW3gBsSOdxcNmOrTA1lI1/IQ=
+github.com/tnarik/hugo-homebrewery-theme_props v0.0.0-20250426162006-1717d4009264 h1:XSGnWntG6P7RIZ5tPpcs+gBl0rfbf/63OdrHrEr7G4I=
+github.com/tnarik/hugo-homebrewery-theme_props v0.0.0-20250426162006-1717d4009264/go.mod h1:JCm13mgDNsszduMa/aOSMwKBvMmG+hPpYxdLzsoIulI=
