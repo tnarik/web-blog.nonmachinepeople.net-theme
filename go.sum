@@ -1,4 +1,3 @@
 github.com/adityatelange/hugo-PaperMod v0.0.0-20250420061623-7cf752f8644f/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
-github.com/naturalcrit/homebrewery v3.16.0+incompatible/go.mod h1:/i4yqADFUW7e+mLkyZATW3gBsSOdxcNmOrTA1lI1/IQ=
 github.com/tnarik/hugo-homebrewery-theme_props v0.0.0-20251101103133-4cc9f4ff89e0 h1:J9bU+5dg6pahTd6XOXCHYx9aYbIUe6pqJd67M8bA1BA=
 github.com/tnarik/hugo-homebrewery-theme_props v0.0.0-20251101103133-4cc9f4ff89e0/go.mod h1:+L9ioRF9jvb54jusYo93hJezTlbrz0M10MlroMZ9Y8I=
